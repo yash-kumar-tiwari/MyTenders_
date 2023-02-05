@@ -1,0 +1,23 @@
+#container
+{
+  height: 615px;
+  width:100%;
+  background-color: aqua;
+  text-align: center;
+}
+
+#content
+{
+  height: 55%;
+  width: 100%;
+  background-color: coral;
+  text-align: center;
+}
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 1366px;
+  margin: 0 auto;
+  background: #ffffff;
+}
